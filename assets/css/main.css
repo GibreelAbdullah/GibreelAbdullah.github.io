@@ -2952,6 +2952,11 @@ ul.icons li>span {
 	border: 0;
 }
 
+
+ul.icons li>a>img:hover{
+	fill: #ffffff;
+}
+
 ul.icons li>a .label,
 ul.icons li>span .label {
 	display: none;
